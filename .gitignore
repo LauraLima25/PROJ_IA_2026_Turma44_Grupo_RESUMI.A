@@ -1,0 +1,28 @@
+# --- Python environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Virtual Environments ---
+# It is recommended not to include this directory in version control
+venv/
+.venv/
+env/
+ENV/
+
+# --- NLP Specific (Data & Models) ---
+# Large datasets and pre-trained models should stay local
+data/
+datasets/
+models/
+*.bin
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# --- OS & IDE ---
+.DS_Store
+.vscode/
+.idea/
