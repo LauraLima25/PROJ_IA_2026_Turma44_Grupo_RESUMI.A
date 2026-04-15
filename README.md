@@ -1,0 +1,1 @@
+# PROJ_IA_2026_Turma44_Grupo_RESUMI.A
