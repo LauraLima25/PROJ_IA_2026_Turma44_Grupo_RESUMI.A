@@ -11,7 +11,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key="sua chave")
 
-FFMPEG_PATH = r"C:colque seu caminha"
+FFMPEG_PATH = r"C:colque seu caminho"
 
 ---------------- FUNÇÕES ----------------
 
