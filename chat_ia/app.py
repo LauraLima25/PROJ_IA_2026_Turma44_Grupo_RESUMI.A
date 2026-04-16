@@ -9,11 +9,11 @@ import yt_dlp
 import subprocess
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="sua chave")
 
-FFMPEG_PATH = r"C:\Users\laura\OneDrive\Área de Trabalho\ffmpeg\bin\ffmpeg.exe"
+FFMPEG_PATH = r"C:colque seu caminha"
 
-# ---------------- FUNÇÕES ----------------
+---------------- FUNÇÕES ----------------
 
 def baixar_audio(url):
     ydl_opts = {
