@@ -3,10 +3,14 @@ O RESUM.IA é uma aplicação que utiliza Inteligência Artificial para resumir 
 
 PROJ_IA_2026_Turma44_Grupo_RESUMI.A
 
-Equipe
+Equipe:
+
 Ingrid Ramos de Oliveira – RA 2222200879
+
 Kauan Rodrigo Seles Nogueira – RA 2222203931
+
 Mateus Machado Freire – RA 2222109498
+
 Laura Pereira de Lima – RA 2224200199
 
 Turma: 44
