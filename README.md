@@ -61,6 +61,3 @@ requirements.txt → Dependências
 
 
 
-Link de disponibilização do vídeo no YouTube demonstrando o funcionamento da nossa IA.
-
-https://youtube.com/shorts/6830FpgqzOo?feature=share
